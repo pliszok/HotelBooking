@@ -1,2 +1,5 @@
-package com.engeto.homework.HotelBooking;public class List {
+package com.engeto.homework.HotelBooking;
+
+public class List {
+
 }
